@@ -1,0 +1,23 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "'An Address Book'",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikaH/intro-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikaH/intro-node-js/issues"
+  },
+  "homepage": "https://github.com/karthikaH/intro-node-js#readme",
+  "dependencies": {
+    "commander": "^3.0.0",
+    "inquirer": "^7.0.0"
+  }
+}
